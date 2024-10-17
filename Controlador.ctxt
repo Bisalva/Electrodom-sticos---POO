@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Controlador
+comment1.params=potenciaAparatoUnidad
+comment1.target=Controlador(int)
+comment2.params=
+comment2.target=void\ conectarAparato()
+comment3.params=
+comment3.target=void\ cambiarInterruptorAparato()
+comment4.params=EstadoGeneral
+comment4.target=void\ checkInCorriente(boolean)
+numComments=5

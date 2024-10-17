@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PlanchaElectrica
+comment1.params=Potencia
+comment1.target=PlanchaElectrica(int)
+comment2.params=PotenciaNueva
+comment2.target=void\ setConsumoPlancha(int)
+numComments=3

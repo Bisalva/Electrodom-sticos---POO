@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Interruptor_General
+comment1.params=
+comment1.target=Interruptor_General()
+comment10.params=PotenciaIngresada
+comment10.target=void\ exPotencia(int)
+comment11.params=PotenciaIngresada
+comment11.target=void\ sumPotencia(int)
+comment2.params=
+comment2.target=void\ cambioEstadoIG()
+comment3.params=Potencia\ bin
+comment3.target=void\ Watts(int,\ int)
+comment4.params=
+comment4.target=Interruptor_General\ objIG()
+comment5.params=
+comment5.target=int\ WattsIG()
+comment6.params=Aparato
+comment6.target=void\ RegAparatos(Controlador)
+comment7.params=Aparato
+comment7.target=void\ unRegAparato(Controlador)
+comment8.params=
+comment8.target=boolean\ getEstado()
+comment9.params=flag
+comment9.target=void\ numConecciones(int)
+numComments=12
