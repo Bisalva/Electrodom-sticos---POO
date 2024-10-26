@@ -1,7 +1,7 @@
 # Electrodomesticos---POO
 
 >[!note]
-> Proyecto Final Java-POO (1er semestre 2024)
+> Es una version básica con interfaz gráfica incluida
 
 - **Profesor : Carlos Arias** --- **UMAG**
 
